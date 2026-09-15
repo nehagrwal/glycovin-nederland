@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/glycovin-nederland/sitemap.xml
+Sitemap: https://glycovin-nederland.vercel.app/sitemap-vercel.xml
+Sitemap: https://glycovin-nederland.pages.dev/sitemap-cloudflare.xml
